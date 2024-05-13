@@ -1,12 +1,12 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Ricky Morival 
 <a href="[https://linkedin.com](https://www.linkedin.com/in/ricky-morival-408b90171/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+My name is Ricky Morival, and I'm currently a college student with a passion for exploring the intricacies of technology and cybersecurity. I'm pursuing a major in computer science, driven by my fascination with coding, algorithms, and the endless possibilities they offer in shaping the digital world. Alongside my major, I've chosen to delve deeper into the realm of cybersecurity, recognizing its critical role in safeguarding our digital infrastructure and privacy. Through this interdisciplinary journey, I aim to not only hone my technical skills but also contribute to building a safer and more secure digital environment for us all. I'm excited to embark on this educational journey and to share and learn from the experiences and insights of others in the field.
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+Seeking opportunities to apply my theoretical knowledge and practical skills in computer science and cybersecurity to contribute effectively to a dynamic team or organization. Eager to leverage my educational background and passion for technology to tackle real-world challenges, enhance cybersecurity measures, and drive innovation in the ever-evolving digital landscape.
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
