@@ -24,7 +24,7 @@ Communication Skills: Strong written and verbal communication skills to effectiv
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Internal Security Audit                       | <a href="https://google.com](https://docs.google.com/document/d/e/2PACX-1vRutEPQYuaX9MPVQ-Q3FKo4XwVmQKXsU_753w_DYHA1YBJJOb8omsiJArZXt0JgjQ8i1bo1pJUjIyI2/pub">Detection Lab</a>|
+| Internal Security Audit                       | <a href="https://docs.google.com/document/d/e/2PACX-1vRCy7rc2wT2rJU5_haY-SYzkY3XBpK1DaS_titXwvknfPERK3unpqaarLT5mH9nhCsyhFnCdNB7JU52/pub">Detection Lab</a>|
 | Network Traffic Monitoring                    | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
